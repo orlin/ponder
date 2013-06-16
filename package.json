@@ -1,0 +1,19 @@
+{ "name": "ponder"
+, "private": false
+, "description": "praxis on render"
+, "keywords": [ "organic", "components", "representation" ]
+, "version": "0.0.0"
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/orlin/ponder.git"
+  }
+, "author": "Orlin M Bozhinov <om@soundsapiens.com>"
+, "main": "index"
+, "dependencies": { "organic": "*" }
+, "devDependencies": { "coffee-script": "*" }
+, "scripts": {}
+, "licenses":
+  [ { "type": "Unlicense"
+    , "url" : "http://unlicense.org/"
+    } ]
+}
