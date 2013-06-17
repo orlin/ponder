@@ -1,4 +1,4 @@
-# ponder &mdash; praxis on render
+# pon·der &mdash; praxis on render
 
 [Organic](https://github.com/VarnaLab/node-organic) representation of [Atomic Design](http://vimeo.com/67476280).
 
